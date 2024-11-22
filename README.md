@@ -1,6 +1,6 @@
 # Project1_Group6
 
-# Project 1: Group 6 Travel and Hotel Data Analysis
+# Project 1: Group 6 Data Analysis of Global Tourism
 
 ## Objective
 The primary goal of this project is to analyze travel and hotel data to uncover insights that address key research questions related to tourist behavior and market trends. By leveraging data analytics, we aim to provide actionable insights that can enhance understanding of the tourism industry.
